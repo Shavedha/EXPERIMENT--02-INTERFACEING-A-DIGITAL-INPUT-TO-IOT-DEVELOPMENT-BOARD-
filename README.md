@@ -167,10 +167,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![ex2op1](https://user-images.githubusercontent.com/93427376/228211191-ad9216b1-7b9d-48a9-99d6-3cdbb9451263.png)
 
 ### AFTER ENCOUNETRING AN OBJECT
+![ex2op2](https://user-images.githubusercontent.com/93427376/228212318-2ec0363c-1c5c-44d2-8b78-9b58147e7e2b.png)
 
- 
- 
- 
- 
 ## Result :
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
